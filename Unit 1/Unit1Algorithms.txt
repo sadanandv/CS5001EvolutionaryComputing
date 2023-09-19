@@ -8,9 +8,9 @@ iii. Depth First Search
 
 iv. Hill Climb Algorithm
 
-v. Beam Search
+v. Oracle
 
-vi. Oracle
+vi. Beam Search
 
 vii. Branch and Bound(4 Variations)
 
