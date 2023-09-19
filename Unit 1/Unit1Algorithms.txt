@@ -1,0 +1,19 @@
+In this unit, the following algorithms are implemented:
+
+i. British Muesum Search
+
+ii. Breadth First Search
+
+iii. Depth First Search
+
+iv. Hill Climb Algorithm
+
+v. Beam Search
+
+vi. Oracle
+
+vii. Branch and Bound(4 Variations)
+
+viii. A*
+
+ix. Best First Search
