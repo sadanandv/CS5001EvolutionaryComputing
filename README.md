@@ -24,4 +24,6 @@ viii. A*
 
 ix. Best First Search
 
-All the algorithms have been individually defined in seperate files. A menu driven program has also been written in the 'pipeline.py' file in which a graph can be inputted and based on the algorithm selected, a path will be returned.
+All the algorithms have been individually defined in separate files. A menu-driven program has been written in the 'pipeline.py' file in which a graph can be inputted and based on the algorithm selected, a path will be returned.
+
+A C++ version of the pipeline has also been included in the directory.
