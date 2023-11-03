@@ -18,7 +18,6 @@ The algorithms discussed in this unit have been implemented as follows:
 
 All the algorithms have been individually defined in separate files. A menu-driven program has been written in the 'pipeline.py' file in which a graph can be inputted and based on the algorithm selected, a path will be returned.
 
-A C++ version of the pipeline has also been included in the directory.
 
 ## Unit 2: Optimization Algorithms
 
@@ -27,6 +26,21 @@ A Whitebox Neural Network has been implemented in this unit, along with differen
 ### Activation Functions
 
 1. Sigmoid
-2. Softmax
-3. Relu
-4. Leaky Relu
+2. Tanh
+5. ReLU
+6. ELU
+7. PReLU
+8. Leaky Relu
+9. SELU
+10. SoftSign
+11. SoftPlus
+12. Hard Sigmoid
+13. Swish
+14. Mish
+Apart from the Above 14 Activation Functions, all students were asked to design their own Activation Functions with any range and mathematical model.
+15. 23120023_AF:
+
+### Optimization Techniques
+
+0. BackPropagation
+1. Ant Colony Optimization
