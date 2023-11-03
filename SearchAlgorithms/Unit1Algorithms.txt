@@ -1,8 +1,8 @@
 In this unit, the following algorithms are implemented:
 
-i. British Muesum Search
+i. British Museum Search
 
-ii. Breadth First Search
+ii. Breadth-First Search
 
 iii. Depth First Search
 
