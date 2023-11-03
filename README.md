@@ -6,23 +6,15 @@ This Repository contains the algorithms discussed in the Evolutionary Computing 
 
 The algorithms discussed in this unit have been implemented as follows:
 
-i. British Museum Search
-
-ii. Breadth-First Search
-
-iii. Depth First Search
-
-iv. Hill Climb Algorithm
-
-v. Oracle
-
-vi. Beam Search
-
-vii. Branch and Bound(4 Variations)
-
-viii. A*
-
-ix. Best First Search
+1. British Museum Search
+2. Breadth-First Search
+3. Depth First Search
+4. Hill Climb Algorithm
+5. Oracle
+6. Beam Search
+7. Branch and Bound(4 Variations)
+8. A*
+9. Best First Search
 
 All the algorithms have been individually defined in separate files. A menu-driven program has been written in the 'pipeline.py' file in which a graph can be inputted and based on the algorithm selected, a path will be returned.
 
