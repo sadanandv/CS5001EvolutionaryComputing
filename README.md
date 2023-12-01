@@ -46,3 +46,4 @@ Apart from the Above 14 Activation Functions, all students were asked to design 
 
 0. BackPropagation
 1. Ant Colony Optimization
+2. Particle Storm Optimization
