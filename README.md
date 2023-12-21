@@ -19,7 +19,7 @@ The algorithms discussed in this unit have been implemented as follows:
 All the algorithms have been individually defined in separate files. A menu-driven program has been written in the 'pipeline.py' file in which a graph can be inputted and based on the algorithm selected, a path will be returned.
 
 
-## Unit 2: Optimization Algorithms
+## Optimization Algorithms
 
 A Whitebox Neural Network has been implemented in this unit, along with different Activation Functions and the Various Optimization Techniques discussed in Class.
 
@@ -42,11 +42,12 @@ Apart from the Above 14 Activation Functions, all students were asked to design 
 
 13. 23120023_AF:
 
-## Optimization Algorithms
+### Optimization Techniques
+In order to implement all the techniques, a similar structure was followed based on the technique's nature. A simple Neural Network was implemented to perform classification of the MNIST dataset from the `Sklearn` Library.
 
 0. Gradient Descent
 1. Genetic Algorithm
 2. Genetic Culture Algorithm
-3. Ant Colony Optimization
+3. Ant Colony Optimization(For Hyperparameter Tuning)
 4. Particle Storm Optimization
 5. Grey Wolf Optimization
