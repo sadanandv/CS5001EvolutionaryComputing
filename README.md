@@ -2,7 +2,7 @@
 
 This Repository contains the algorithms discussed in the Evolutionary Computing Course offered in Shiv Nadar University Chennai to the M.Tech in Artificial Intelligence & Data Science Course.
 
-## Unit 1: Search Algorithms
+## Search Algorithms
 
 The algorithms discussed in this unit have been implemented as follows:
 
@@ -42,8 +42,11 @@ Apart from the Above 14 Activation Functions, all students were asked to design 
 
 13. 23120023_AF:
 
-### Optimization Techniques
+## Optimization Algorithms
 
-0. BackPropagation
-1. Ant Colony Optimization
-2. Particle Storm Optimization
+0. Gradient Descent
+1. Genetic Algorithm
+2. Genetic Culture Algorithm
+3. Ant Colony Optimization
+4. Particle Storm Optimization
+5. Grey Wolf Optimization
