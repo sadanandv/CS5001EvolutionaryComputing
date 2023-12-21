@@ -1,0 +1,15 @@
+{
+    "network": {
+        "input_size": 4,
+        "hidden_layers": [10, 8],
+        "output_size": 3,
+        "activation_function": "sigmoid"
+    },
+    "training": {
+        "optimizer": "GradientDescent",
+        "learning_rate": 0.01,
+        "lambda_val": 0.01,
+        "loss_function": "mean_squared_error",
+        "epochs": 1000
+    }
+}
